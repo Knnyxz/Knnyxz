@@ -39,7 +39,7 @@
 
 ## 📫 Contato
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-gabriel-fernandes-oliveira-16707a297/
+* 💼 LinkedIn: [João Gabriel](https://www.linkedin.com/in/jo%C3%A3o-gabriel-fernandes-oliveira-16707a297/)
 * 📧 Email: joaogabrielfo.oficial@gmail.com
 
 ---
