@@ -35,8 +35,6 @@
 
 ---
 
-## GitHub Stats
-
 <p align="center">
   <img src="images/userstats.svg" alt="GitHub stats" />
 </p>
